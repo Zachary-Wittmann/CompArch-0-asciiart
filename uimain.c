@@ -30,7 +30,7 @@ int main()
       break;
     case 'c':
       puts("You selected chars:");
-      for (char c = 'A'; c < 'D'; c++)
+      for (char c = 'A'; c < 'H'; c++)
 	print_char_11x16(c);
       break;
     case 'q':
